@@ -50,6 +50,10 @@ Discussions on the forums are a good place to learn some of the pros and cons of
 	HP Pre3 (480x800)  
 	HP TouchPad (768x1024 or 1024x768)  
 5. On the Application Info (3rd) page you're asked about your company, notice the language tabs, if you don't want to fill out one for each language, X out the one's you don't want (need at least one). This is the part I often forget until I get to the last step and can't figure out why I can't submit my app.
-![Languages in submission](https://github.com/pcimino/TopWatch_IPK/blob/master/submission/ApplicationScreen_Languages.png)
+![Languages in submission](https://github.com/pcimino/TopWatch_IPK/master/submission/ApplicationScreen_Languages.png)  
+![Languages in submission](https://github.com/pcimino/TopWatch_IPK/submission/ApplicationScreen_Languages.png)  
+![Languages in submission](https://github.com/pcimino/TopWatch_IPK/blob/master/submission/ApplicationScreen_Languages.png)  
+![Languages in submission](https://github.com/pcimino/TopWatch_IPK/blob/master/submission/ApplicationScreen_Languages.png)  
+
 
 
