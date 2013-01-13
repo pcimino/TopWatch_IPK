@@ -3,6 +3,8 @@ TopWatch_IPK
 
 Example of am IPK file and screen shots built for submission to the webOS store.
 
+# [Enyo Tutorial Part IIb](http://pcimino.blog.com/enyo/)
+
 This is Part IIb of my [rambling tutorial](http://pcimino.blog.com/enyo/). Not necessarily a step-by-step, and not exactly lessons learned, somewhere in between, like "brunch."
 
 In the [TopWatch_Build](https://github.com/pcimino/TopWatch_Build) project, I have a script tools\install_webos.bat which takes the code created in the \deploy directory, and creates the IPK package file used to submit the application to the webOS catalog (ie app store).
